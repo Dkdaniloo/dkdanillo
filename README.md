@@ -20,25 +20,7 @@ Olá, sou o **danilo**, desenvolvedor apaixonado por tecnologia e inovação. Co
 ![YouTube Views](https://img.shields.io/youtube/channel/views/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
 
 
-### 🌐 **Minhas Redes Sociais**  
-Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://www.youtube.com/@danilolimaalbuquerque2921/featured">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.instagram.com/p/?@dk.danilo==">
-    <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
-  </a>
-  <a href="https://replit.com/@dk.danilo">
-    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Ícone Replit" style="margin: 0 10px;">
-  </a>
-  
-  </a>
-  <a href="https://chat.whatsapp.com/+55 11 98435-9990">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone WhatsApp" style="margin: 0 10px;">
-  </a>
-</div>
 
 
 
