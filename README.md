@@ -87,8 +87,7 @@ Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender 
 
 <div >
   <!-- Link Mente Maker -->
-  <a href="https://www.mentemaker.com.br/" target="_blank" style="font-size: 24px; font-weight: bold;">
-    🌏 Mente Maker
+
   </a> <br>
    <a href="https://github.com/dkdanilo/CopiladorOnLine" target="_blank" style="font-size: 24px; font-weight: bold;">
       🐍 Python Online
@@ -116,7 +115,7 @@ Entre em contato para mais informações ou se quiser colaborar! 🚀
 ### 🌱 **Vamos Juntos!**  
 Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Juntos, podemos transformar suas ideias em realidade! 🚀
 
-[Mente Maker](https://www.youtube.com/@danilolimaalbuquerque2921)
+[Dkdanilo](https://www.youtube.com/@danilolimaalbuquerque2921)
 
 ---
 
