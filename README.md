@@ -2,7 +2,7 @@
 <p align="center">
 
 ### 😎 **Sobre mim**  
-Olá, sou o **danilo**, desenvolvedor apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa, compartilho conteúdos e cursos que podem ajudar no seu aprendizado em diversas áreas. Explore meus projetos e junte-se à nossa comunidade!
+Olá, sou o **danilo**, desenvolvedor apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa, compartilho conteúdos  que podem ajudar no seu aprendizado em diversas áreas. Explore meus projetos e junte-se à nossa comunidade!
 
 <!--🐱CAT-->
 <p align="center">
