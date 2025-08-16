@@ -27,7 +27,7 @@ Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no Y
   <a href="https://www.youtube.com/@danilolimaalbuquerque2921/featured">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
   </a>
-  <a href="https://www.instagram.com/p/CwEdLL4te3W/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==">
+  <a href="https://www.instagram.com/p/CwEdLL4te3W/?dk.danilo==">
     <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
   </a>
   <a href="https://replit.com/@dk.danilo">
@@ -40,9 +40,7 @@ Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no Y
   </a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+
 
 ### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
 Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
