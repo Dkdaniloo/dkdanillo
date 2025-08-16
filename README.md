@@ -27,7 +27,7 @@ Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no Y
   <a href="https://www.youtube.com/@danilolimaalbuquerque2921/featured">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
   </a>
-  <a href="https://www.instagram.com/p/CwEdLL4te3W/?@dk.danilo==">
+  <a href="https://www.instagram.com/p/?@dk.danilo==">
     <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
   </a>
   <a href="https://replit.com/@dk.danilo">
