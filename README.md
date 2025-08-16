@@ -33,10 +33,9 @@ Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no Y
   <a href="https://replit.com/@dk.danilo">
     <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Ícone Replit" style="margin: 0 10px;">
   </a>
-  <a href="https://discord.gg/maxJ3H3z">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Ícone Discord" style="margin: 0 10px;">
+  
   </a>
-  <a href="https://chat.whatsapp.com/FGkU80peYjMFubHPiNScSm">
+  <a href="https://chat.whatsapp.com/+55 11 98435-9990">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone WhatsApp" style="margin: 0 10px;">
   </a>
 </div>
